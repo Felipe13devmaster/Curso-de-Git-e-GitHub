@@ -1,2 +1,2 @@
 # Curso de Git e GitHub
- Aprendizado pratico
+ Primeiro repositorio do curso de Git e GitHub
